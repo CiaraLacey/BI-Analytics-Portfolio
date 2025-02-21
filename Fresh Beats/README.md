@@ -1,4 +1,4 @@
-
+https://github.com/CiaraLacey/BI-Analytics-Portfolio/blob/main/Images/Project%20Screenshot.PNG
 
 # NAME OF PROJECT  
 
