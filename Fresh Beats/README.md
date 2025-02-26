@@ -5,20 +5,26 @@ https://github.com/CiaraLacey/BI-Analytics-Portfolio/blob/main/Images/Project%20
 
 ## Optimizing User Retention and Converting Free Users to Paid Subscribers
 
-What did you build and why?
+### What did I build and why?
+
 This project analyzes Fresh Beats' user behavior to provide data-driven insights on engagement, retention, and conversion from free to paid subscribers. Understanding which genres and user behaviors drive retention allows Fresh Beats to optimize its marketing strategies.
 
-What problem did it solve?
+### What problem did this solve?
+
 Fresh Beats seeks to grow its paid user base while maintaining engagement across various genres. The report highlights key trends, such as rock's popularity among free users and the decline of pop, and proposes actionable strategies to increase conversions and improve user retention.
 
-What technologies did you use?
+###Technologies I used
+
 Data Analytics & Business Intelligence – Interpreted provided insights and visualizations.
 Data-Driven Decision-Making – Connected findings to business challenges and stakeholder needs.
 Stakeholder Communication – Structured insights into a clear and actionable format.
-How many weeks/months did it take to complete?
-This project was completed in two weeks, including data review, insight synthesis, and report development.
 
-How many people took part in the project and what was your contribution?
+### How many weeks/months did it take to complete?
+
+This project was completed in one week, including data review, insight synthesis, and report development.
+
+### How many people took part in the project?
+
 This was an individual project, where I was responsible for analyzing engagement trends, selecting key insights, and developing recommendations for Fresh Beats.
   
 ### Conclusions
