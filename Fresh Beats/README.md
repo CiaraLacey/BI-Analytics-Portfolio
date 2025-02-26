@@ -13,7 +13,7 @@ This project analyzes Fresh Beats' user behavior to provide data-driven insights
 
 Fresh Beats seeks to grow its paid user base while maintaining engagement across various genres. The report highlights key trends, such as rock's popularity among free users and the decline of pop, and proposes actionable strategies to increase conversions and improve user retention.
 
-###Technologies I used
+### Technologies I used
 
 Data Analytics & Business Intelligence – Interpreted provided insights and visualizations.
 Data-Driven Decision-Making – Connected findings to business challenges and stakeholder needs.
